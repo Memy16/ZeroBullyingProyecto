@@ -1,0 +1,734 @@
+{
+    "es": {
+        "autoayuda": [
+            {
+                "titulo": "¿Por qué nadie me quiso?",
+                "autor": "Dana Hart",
+                "url": "https://drive.google.com/file/d/150ModtJ2yO1FA38rWuxoMRXebwF8KTCx/",
+                "portada": "https://i.ibb.co/NmqXZvR/Por-qu-nadie-me-quiso-page-0001.jpg"
+            },
+            {
+                "titulo": "El caballero de la armadura oxidada",
+                "autor": "Robert Fisher",
+                "url": "https://drive.google.com/file/d/14tFOh2PQX6nNhz9bxzXa5-Ysn7tgD8XV/",
+                "portada": "https://i.ibb.co/G0gpJ3h/elcaballerodelaarmaduraoxidada.jpg"
+            }
+        ],
+        "bullying": [
+            {
+               "titulo": "Podemos prevenir el bullying",
+                "autor": "R. Raposo, T. Aller, V. de Sousa-Serro y S. Fernández / Educo",
+                "url": "https://drive.google.com/file/d/1dEu3uCsBcqdG9KmPphxZ1YylTKCCK7wY/",
+                "portada": "https://i.ibb.co/DfHZ7TV/Podemos-prevenir-el-bullying-pages-to-jpg-0001.jpg" 
+            },
+            {
+                "titulo": "PAUTAS PARA PREVENIR Y ATENDER EL CIBERBULLYING DURANTE EL ESTADO DE EMERGENCIA.",
+                 "autor": "",
+                 "url": "https://drive.google.com/file/d/1ejMzFMiPF9NUY4gqk6jEF05VRxwuWBut/",
+                 "portada": "https://i.ibb.co/mHqfgmJ/ciberbullying.png" 
+             },
+             {
+                "titulo": "Mamá, papá ¡no quiero ir al cole!",
+                 "autor": "",
+                 "url": "https://drive.google.com/file/d/1sBwmWwUcBKg5x543G0ZXhh1pr5ZiV4pG/",
+                 "portada": "https://i.ibb.co/M1pQQRJ/Mam-pap-no-quiero-ir-al-cole-output.jpg" 
+             },
+             {
+                "titulo": "Guía para la identificación y prevención del acoso escolar (bullying)",
+                 "autor": "",
+                 "url": "https://drive.google.com/file/d/16iGFPS909evtDC9xkjggb4IeG-t1RCOu/",
+                 "portada": "https://i.ibb.co/0M95B8d/Gu-a-para-la-identificaci-n-y-prevenci-n-del-acoso-escolar-Bullying-output.jpg" 
+             },
+             {
+                "titulo": "El Bullying o acoso escolar",
+                 "autor": "",
+                 "url": "https://drive.google.com/file/d/1vNFY_72ZOGfO6fM2c_4XqeP2p8gu1aaC/",
+                 "portada": "https://i.ibb.co/s6hgp5F/El-Bullying-o-acoso-escolar-page-0001.jpg" 
+             },
+             {
+                "titulo": "El Bullying Escolar",
+                 "autor": "Karla Jazmín Sánchez Bautista",
+                 "url": "https://drive.google.com/file/d/1-Huo7xAdbfSZEB00eJTHvaY77VKN-KBH/",
+                 "portada": "https://i.ibb.co/7S5yV0Q/EL-BULLYING-ESCOLAR.jpg" 
+             },
+             {
+                "titulo": "Bullying laboral reto para la gerencia de hoy",
+                 "autor": "ALEXANDRA VELANDIA",
+                 "url": "https://drive.google.com/file/d/1wbrfewfjIxNJkFHNGOVjWghjZa6fXx5J/",
+                 "portada": "https://i.ibb.co/ZgBf79n/Screenshot-20241114-115953-edit-173643123859228.jpg" 
+             },
+             {
+                "titulo": "Acoso escolar",
+                "autor": "Mª del Mar Merayo y Asociación Vagamundo",
+                "url": "https://drive.google.com/file/d/1o9voAwrwLfUbm8d6bue_gcRq8ES7LKTf/",
+                "portada": "https://i.ibb.co/T25Rm5L/Acoso-escolar-page-0001.jpg"
+            },
+            {
+                "titulo": "Acoso Escolar",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/1cXH7U5bmeOGOYNPOBac7z0l_kFryHnzd/",
+                "portada": "https://i.ibb.co/VTM5Mpw/Acoso-Escolar.jpg"
+            },
+            {
+                "titulo": "El acoso escolar es un problema de salud pública.",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/1WhOz4xJYelEX7fortUvV6S84V8elznRq/",
+                "portada": "https://i.ibb.co/2Zmy4wg/Screenshot-20241114-115929-edit-173665533602761.jpg"
+            },
+            {
+                "titulo": "¡Déjame en paz! UN CUENTO SOBRE EL ACOSO",
+                "autor": "Carmen Gil y Gabriel de la Riva",
+                "url": "https://drive.google.com/file/d/11s_IHtIUq87Yw3Qde1KBlrXMYsCnZfvD/",
+                "portada": "https://i.ibb.co/p2Yx3qb/D-jame-en-paz-page-0001.jpg"
+            }
+        ],
+        "cuentos": [
+            {
+                "titulo": "Nara Sueña",
+                "autor": "NICOLÁS SCHUFF y PABLO I. ELÍAS",
+                "url": "https://drive.google.com/file/d/11fGjBB6N2gDNpdUrrcXru6fTZ3h7d3Ud/",
+                "portada": "https://i.ibb.co/xzJpLDN/Screenshot-20241114-115503-edit-173910846579699.jpg"
+            },
+            {
+                "titulo": "Los tres cerditos y el Lobo",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/11KrlD1kzMkcXlgj67bLOR2A3l9PCQqX9/",
+                "portada": "https://i.ibb.co/TcLdC74/Screenshot-20241114-115452-edit-173929146813546.jpg"
+            },
+            {
+                "titulo": "Los guardasecretos",
+                "autor": "Graciela Repún",
+                "url": "https://drive.google.com/file/d/11l42gH2g1xbPiSqNiUY0TVm40Hfnoriy/",
+                "portada": "https://i.ibb.co/KwxJ6Sm/Screenshot-20241114-115442-edit-173946554238175.jpg"
+            },
+            {
+                "titulo": "LA BELLA Y LA BESTIA",
+                "autor": "Jeanne- Marie Leprince de Beaumont",
+                "url": "https://drive.google.com/file/d/11B45qd_m6nzyZocW5vHtLP17wCLhCX52/",
+                "portada": "https://i.ibb.co/ZM9nsQH/Screenshot-20241114-115426-edit-173965269824626.jpg"
+            },
+            {
+                "titulo": "El picapedrero",
+                "autor": "Anónimo",
+                "url": "https://drive.google.com/file/d/11XpDbCegsnBVbRaTzEEMQ_4GZiNZCl6I/",
+                "portada": "https://i.ibb.co/zbKzNwW/Screenshot-20241114-115419-edit-173981322961547.jpg"
+            },
+            {
+                "titulo": "El lunes conocí a Emi",
+                "autor": "Paula Bombara",
+                "url": "https://drive.google.com/file/d/11i-8Ri628CX66A4XJdWW_ccC7k9pu2Cm/",
+                "portada": "https://i.ibb.co/QpD28gy/Screenshot-20241114-115412-edit-174003627526903.jpg"
+            },
+            {
+                "titulo": "¿Donde está Osito?",
+                "autor": "Libby Martinez",
+                "url": "https://drive.google.com/file/d/15_vFgUWTXHBmCR_7CUShyfv-pvJDQMAp/",
+                "portada": "https://i.ibb.co/y6xVLLS/Screenshot-20241114-115358-edit-174029833093560.jpg"
+            },
+            {
+                "titulo": "Cuando se van al jardín",
+                "autor": "Silvia Schujer",
+                "url": "https://drive.google.com/file/d/11feA44Ot5SZI0DiBtInnAY5PaObgN5lM/",
+                "portada": "https://i.ibb.co/PtnQfj0/Cuando-se-van-al-jard-n-output.jpg"
+            },
+            {
+                "titulo": "Cichipo y Astrulina",
+                "autor": "LUCIANO SARACINO y JIMENA TELLO",
+                "url": "https://drive.google.com/file/d/11qnNwFz24JwWQiRDFlx3PUy0A1jZhNp_/",
+                "portada": "https://i.ibb.co/tXxDnBZ/Cichipo-y-Astrulina-output.jpg"
+            },
+            {
+                "titulo": "BLANCANIEVES",
+                "autor": "HERMANOS GRIMM",
+                "url": "https://drive.google.com/file/d/11I2Qc_PZFi_BTVZW_RJGIWnL7kDLuCyZ/",
+                "portada": "https://i.ibb.co/vDKmH0q/Screenshot-20241114-115513-edit-173889972157728.jpg"
+            },
+            {
+                "titulo": "¿Qué vas a llevar?",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/11b01t8KBK2axz7bd8omcIgBCWC30u4Kp/",
+                "portada": "https://i.ibb.co/gJLyH8y/Qu-vas-a-llevar-output.jpg"
+            }
+        ],
+        "novelas": [
+            {
+               "titulo": "Viaje al centro de la Tierra",
+                "autor": "Julio Verne",
+                "url": "https://drive.google.com/file/d/1D4o4ouc9bvwj4HgOQpxvCMZltugmO8BD/",
+                "portada": "https://i.ibb.co/kKpFSjq/cubierta-de-viaje-al-centro-de-la-tierra.jpg" 
+            },
+            {
+                "titulo": "Percy Jackson y la maldición del Titán",
+                 "autor": "Rick Riordan",
+                 "url": "https://drive.google.com/file/d/15kxjs7lvx87mSa7rRRgVIIDnTKY9sBKZ/",
+                 "portada": "https://i.ibb.co/3r27mPj/Maldicion-del-titan.jpg" 
+             },
+             {
+                "titulo": "Orgullo y prejuicio",
+                 "autor": "Jane Austen",
+                 "url": "https://drive.google.com/file/d/1zIRne4JlZ4GMxAinJqP9eg9q-msPDbFV/",
+                 "portada": "https://i.ibb.co/f8Jd8gc/5848c893515da373ab40898b29f2c344.jpg" 
+             },
+             {
+                "titulo": "Mujercitas",
+                 "autor": "Louisa May Alcott",
+                 "url": "https://drive.google.com/file/d/1UY0IrxwaAz5nHWHlDiDRPk_5jEWCR7L9/",
+                 "portada": "https://i.ibb.co/7XxgfSn/pixelcut-export.png" 
+             },
+             {
+                "titulo": "Moby Dick",
+                 "autor": "Herman Melville",
+                 "url": "https://drive.google.com/file/d/1aMpTDowUCRJSlkWRgMrE8II9O75QPVcN/",
+                 "portada": "https://i.ibb.co/3SSdzLG/b589be02f650868192cc4bc0c876ea31.jpg" 
+             },
+             {
+                "titulo": "LAS CRÓNICAS DE NARNIA: EL LEÓN, LA BRUJA Y EL ROPERO",
+                 "autor": "C. S. LEWIS",
+                 "url": "https://drive.google.com/file/d/166W3l-fPkXO2wS8-Se9Oot6-eZ7qw3mj/",
+                 "portada": "https://i.ibb.co/wYK6V32/leon-y-bruja.jpg" 
+             },
+             {
+                 "titulo": "Las Crónicas de Narnia II - El Príncipe Caspian",
+                 "autor": "C. S. LEWIS",
+                 "url": "https://drive.google.com/file/d/16DmFxO9NZNwvIZ5pF9MYBP9XGYbEqTq0/",
+                 "portada": "https://i.ibb.co/fpXXFr8/Captura-de-pantalla-2024-11-17-154047.png"
+             },
+             {
+                "titulo": "Las aventuras de Pinocho",
+                "autor": "Carlo Collodi",
+                "url": "https://drive.google.com/file/d/117BSfMGMnp57wcxo5P9y3S6U-Q3lTvyw/",
+                "portada": "https://i.ibb.co/G2GVqBs/Las-aventuras-de-Pinocho-output.jpg"
+            },
+            {
+                "titulo": "La vuelta al mundo en ochenta dias",
+                "autor": "Julio Verne",
+                "url": "https://drive.google.com/file/d/1nuQjr_37-Egfh5GMKvOAFr7m74g1zTtn/",
+                "portada": "https://i.ibb.co/sJ2kqK1/904d02dd25227e9988fa75005b7d620d.jpg"
+            },
+            {
+                "titulo": "La vida de Lazarillo de Tormes",
+                "autor": "Anonimo",
+                "url": "https://drive.google.com/file/d/1Dlm8L6bZ6GnhXI-JD1mZ5YHLSnkQaWn7/",
+                "portada": "https://i.ibb.co/Hr9gZ81/edition-122444.jpg"
+            },
+            {
+                "titulo": "La metamorfosis",
+                "autor": "Franz kafka",
+                "url": "https://drive.google.com/file/d/1m3WxpMFboKKqeHSuuiBqEQtlLg4tHoTS/",
+                "portada": "https://i.ibb.co/Kj37ZtZ/portada-la-metamorfosisjpg.jpg"
+            },
+            {
+                "titulo": "La Lección de August",
+                "autor": "R. J. Palacio",
+                "url": "https://drive.google.com/file/d/164sIjFfEHUEhgZgwMSOkk4jDDVmA6jwH/",
+                "portada": "https://i.ibb.co/yRFrvvP/Screenshot-20241114-122156-edit-144583352264324.jpg"
+            },
+            {
+                "titulo": "Percy Jackson y los dioses del Olimpo - 4 - La batalla del laberinto",
+                "autor": "Rick Riordan",
+                "url": "https://drive.google.com/file/d/15naeDPdlRICrT8skoT-WdSv5OM6QMwsB/",
+                "portada": "https://i.ibb.co/PcBMmyJ/Screenshot-20241114-122129-edit-144647155799664.jpg"
+            },
+            {
+                "titulo": "Harry Potter y las reliquias de la muerte",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/100Ng8Nlpi4UhlcHtREJgZpTG1MCdbS17/",
+                "portada": "https://i.ibb.co/R03yWkc/Screenshot-20241114-121453-edit-144672202593301.jpg"
+            },
+            {
+                "titulo": "Harry Potter y la piedra filosofal",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-kJp_Tvb5lj7DVjSgFn1AsAWMzG-h2mi/",
+                "portada": "https://i.ibb.co/NNWzHCL/Screenshot-20241114-121435-edit-144696784121156.jpg"
+            },
+            {
+                "titulo": "Harry Potter y la orden del fénix",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-wYywIqBIX24Ds0OUMnhTDGXLySz7CcT/",
+                "portada": "https://i.ibb.co/ZhYRHG0/Screenshot-20241114-121418-edit-144730279739581.jpg"
+            },
+            {
+                "titulo": "Harry Potter y la cámara secreta",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-sKjP3oZk44RnD4Zq3R_VucVWK05O7wK/",
+                "portada": "https://i.ibb.co/M6Scc1G/Screenshot-20241114-121357-edit-144748973313948.jpg"
+            },
+            {
+                "titulo": "Harry Potter y el prisionero de Azkaban",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-sw_4NxcV_05EzfTciiN5raXyzzm6_g3/",
+                "portada": "https://i.ibb.co/PMjpVZX/Screenshot-20241114-121329-edit-144774689163366.jpg"
+            },
+            {
+                "titulo": "Harry Potter y el misterio del príncipe",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-xQx0ANR3drQHzIPIQhyUdZ8OY-sRauk/",
+                "portada": "https://i.ibb.co/10MB3jj/Screenshot-20241114-121301-edit-145197012576382.jpg"
+            },
+            {
+                "titulo": "Harry Potter y el cáliz de fuego",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/1-tGw52zHCUR-Thi7Extji-HWc3Entb78/",
+                "portada": "https://i.ibb.co/Q88kG4B/Screenshot-20241114-121238-edit-145418493222808.jpg"
+            },
+            {
+                "titulo": "Grandes esperanzas",
+                "autor": "Charles Dicken",
+                "url": "https://drive.google.com/file/d/1H6Aq2oIbeJxpdCbc8qaIXMzTIYY__DxT/",
+                "portada": "https://i.ibb.co/1LPk0H1/grandes-esperanzas-charles-dickens.jpg"
+            },
+            {
+                "titulo": "Percy Jackson y los dioses del Olimpo - El último héroe del Olimpo",
+                "autor": "Rick Riordan",
+                "url": "https://drive.google.com/file/d/15oKrlXLOQ_svBv6xGyTYDmz16jLN3nV3/",
+                "portada": "https://i.ibb.co/k30tQcL/El-ltimo-h-roe-del-Olimpo.jpg"
+            },
+            {
+                "titulo": "El Principito",
+                "autor": "Antoine De Saint Exupéry",
+                "url": "https://drive.google.com/file/d/11hNo7KrEcDQd9d0l0Ze9XfQQ66igDFZ6/",
+                "portada": "https://i.ibb.co/VwmLXzN/El-Principito.jpg"
+            },
+            {
+                "titulo": "El Maravilloso Mago de Oz",
+                "autor": "Lyman Frank Baum",
+                "url": "https://drive.google.com/file/d/11UQiigZl8BMKlHdEg3ChQ_vZQvdXid_h/",
+                "portada": "https://i.ibb.co/8Bpq4CX/Screenshot-20241114-121055-edit-146558765070914.jpg"
+            },
+            {
+                "titulo": "Percy Jackson y los dioses del Olimpo - El mar de los monstruos",
+                "autor": "Rick Riordan",
+                "url": "https://drive.google.com/file/d/15kj7p0MvMJ_ZzPXbKvA8O4CseRTfI-2b/",
+                "portada": "https://i.ibb.co/zFfZZXP/a6eeffd196a3ae5e1a39fd5ba7f3f8a4.jpg"
+            },
+            {
+                "titulo": "Percy Jackson y los Dioses del Olimpo - 01 - El ladrón del rayo",
+                "autor": "Rick Riordan",
+                "url": "https://drive.google.com/file/d/15jYZnkmLf7wcTtnMBAlmGcvW9kVIC-eS/",
+                "portada": "https://i.ibb.co/bNkhwwP/Screenshot-20241114-121026-edit-146598498921420.jpg"
+            },
+            {
+                "titulo": "Don quijote de la mancha",
+                "autor": "Miguel de Cervantes",
+                "url": "https://drive.google.com/file/d/18sZ15vBGJ9KH-pqLy8ky2FcSdU6j9LeB/",
+                "portada": "https://i.ibb.co/6W11HPP/don-quijote.jpg"
+            },
+            {
+                "titulo": "De la Tierra a la Luna",
+                "autor": "Julio Verne",
+                "url": "https://drive.google.com/file/d/102QjZwPC6E0z7BNfreHGcRnvPEfpLwQr/",
+                "portada": "https://i.ibb.co/CsLJcZs/Screenshot-20241114-120942-edit-146699695116590.jpg"
+            },
+            {
+                "titulo": "Alicia en el país de las maravillas",
+                "autor": "LEWIS CARROLL",
+                "url": "https://drive.google.com/file/d/110TlynWzbobsb5sO5SA_fwf2Cm5vMb83/",
+                "portada": "https://i.ibb.co/5F5k5Sv/Screenshot-20241114-120927-edit-147667782187991.jpg"
+            }
+        ]
+    },
+    "en": {
+        "autoayuda": [
+            {
+                "titulo": "Your Mind and How to Use It A Manual of Practical Psychology",
+                "autor": "William Walker Atkinson",
+                "url": "https://drive.google.com/file/d/15RJY74WY7FqoM2sonBkH1R2U_XAfLGVR/",
+                "portada": "https://i.ibb.co/QYs4gtQ/Screenshot-20241114-115820-edit-173684006915254.jpg"
+            },
+            {
+                "titulo": "As a Man Thinketh",
+                "autor": "James Allen",
+                "url": "https://drive.google.com/file/d/15NE5uDZy7Q9F0_HAG16IIqWkL89C6r3P/",
+                "portada": "https://i.ibb.co/DrR1Pnk/As-a-Man-Thinketh.png"
+            }
+        ],
+        "bullying": [
+            {
+               "titulo": "Stop Bullying Now!",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/11yMUVQkS8O21w1C4rt-slSsLW3i6wgDn/",
+                "portada": "https://i.ibb.co/FqYPW5h/Stop-Bullying-Now-output.jpg" 
+            },
+            {
+                "titulo": "Bullying at school & online",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/121WGRfSOtb9R_RlK30d_xfRLEm4jP6TK/",
+                "portada": "https://i.ibb.co/ChjKtrf/Bullying-at-school-online-output.jpg"
+            }
+        ],
+        "cuentos": [
+            {
+                "titulo": "The Mood Crew",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/15f8IxDsGy_fTcoZXoGpksKIVehdS5T-t/",
+                "portada": "https://i.ibb.co/DwxqXW6/The-Mood-Crew-output.jpg"
+            },
+            {
+                "titulo": "I feel..",
+                "autor": "Craig Aldred Adapted by:Danielle Brucker",
+                "url": "https://drive.google.com/file/d/15dGbM3MEIvfHCWnfPvRLc-dpGU9JkiUI/",
+                "portada": "https://i.ibb.co/XYdHgyC/I-feel.png"
+            },
+            {
+                "titulo": "Cinderella",
+                "autor": "Charles Perrault",
+                "url": "https://drive.google.com/file/d/10hlrrbYYZugiq0iZdcoGYqLsqDsWp7fE/",
+                "portada": "https://i.ibb.co/5v1pb3q/Screenshot-20241114-115528-edit-173867354122789.jpg"
+            },
+            {
+                "titulo": "Beauty and the Beast",
+                "autor": "Anonymus",
+                "url": "https://drive.google.com/file/d/13c2OSp3epVKmiWHxCLOxEdy9yTguECVd/",
+                "portada": "https://i.ibb.co/kmk5nBB/Beauty-and-the-Beast-output.jpg"
+            }
+        ],
+        "novelas": [
+            {
+               "titulo": "Wonder",
+                "autor": "R. J. Palacio",
+                "url": "https://drive.google.com/file/d/15xk6ZWrTWz5QggNqgICsSBAn47hLTqz3/",
+                "portada": "https://i.ibb.co/RBdKmWM/Screenshot-20241114-120901-edit-147689088916056.jpg" 
+            },
+            {
+                "titulo": "The secret garden - Page 356",
+                 "autor": "Frances Hodgson Burnett",
+                 "url": "https://drive.google.com/file/d/12WIUUbLKQUFtCqSeNj_fT5r7cYgsq2BB/",
+                 "portada": "https://i.ibb.co/8sH37Nb/Screenshot-20241114-120848-edit-147708583601465.jpg" 
+             },
+             {
+                "titulo": "The Return of Sherlock Holmes",
+                 "autor": "Arthur Conan Doyle",
+                 "url": "https://drive.google.com/file/d/10BCNzEc_w3ZeIC1YdM0m7ySTU6oSWY_3/",
+                 "portada": "https://i.ibb.co/LQS0wCS/Screenshot-20241114-120826-edit-147726967488073.jpg" 
+             },
+             {
+                "titulo": "The Little Prince",
+                 "autor": "Antoine de Saint Exupéry",
+                 "url": "https://drive.google.com/file/d/10aesjUOvEhn_CJlo2_AViEhMTnS5iOBN/",
+                 "portada": "https://i.ibb.co/5Kb4VGw/Screenshot-20241114-120817-edit-147744871203951.jpg" 
+             },
+             {
+                "titulo": "The Jungle Book",
+                 "autor": "Rudyard Kipling",
+                 "url": "https://drive.google.com/file/d/10n0NxgJ_hSH4SDuYR3fU7m5awgXHWYN-/",
+                 "portada": "https://i.ibb.co/WtgMVjT/Screenshot-20241114-120744-edit-147764177761913.jpg" 
+             },
+             {
+                "titulo": "The ingenious gentleman Don Quixote of La Mancha",
+                 "autor": "Miguel de Cervantes",
+                 "url": "https://drive.google.com/file/d/10DYYRsjB971DKKkFDw9_otDOmCfGiTNY/",
+                 "portada": "https://i.ibb.co/1qc53jK/Screenshot-20241114-120734-edit-172910587800237.jpg" 
+             },
+             {
+                "titulo": "The Adventures of Sherlock Holmes",
+                 "autor": "Arthur Conan Doyle",
+                 "url": "https://drive.google.com/file/d/10GV0bWVmRkuFe4w95gmb9OIfQwRdTSE0/",
+                 "portada": "https://i.ibb.co/gMyJK1C/adventures-of-sherlock-holmes-ce-head-on.jpg" 
+             },
+             {
+                "titulo": "Rilla of Ingleside",
+                 "autor": "Lucy Maud Montgomery",
+                 "url": "https://drive.google.com/file/d/144FGZ3t0IXNCdNdary1L4AXUU-FZ_6xz/",
+                 "portada": "https://i.ibb.co/WDvmYQ8/Screenshot-20241114-120652-edit-172937782636529.jpg" 
+             },
+             {
+                "titulo": "Pride and Prejudice",
+                 "autor": "Jane Austen",
+                 "url": "https://drive.google.com/file/d/108bHnt3pAoNeAXQwKWJv0uFJjGxmTEh8/",
+                 "portada": "https://i.ibb.co/r3c22p9/Screenshot-20241114-120638-edit-172968115002611.jpg" 
+             },
+             {
+                "titulo": "Peter Pan in Kensington Gardens",
+                 "autor": "J. M. Barrie",
+                 "url": "https://drive.google.com/file/d/10jIQwugLHCZNZ527QomrcBkkG85LqvuW/",
+                 "portada": "https://i.ibb.co/tJTPdB9/Screenshot-20241114-120612-edit-172989396651665.jpg" 
+             },
+             {
+                "titulo": "Percy Jackson and The Olympians 1 - The Lightning Thief",
+                 "autor": "Riordan Rick",
+                 "url": "https://drive.google.com/file/d/15iXwC3mnjr_IcRzCpmvRWz-2e0JMHviA/",
+                 "portada": "https://i.ibb.co/1XTXB80/Screenshot-20241114-120543-edit-173007324853481.jpg" 
+             },
+             {
+                "titulo": "Moby Dick",
+                 "autor": "Herman Melville",
+                 "url": "https://drive.google.com/file/d/10Nk3lV1g45WFxfql27OgXs4zorGhgBVx/",
+                 "portada": "https://i.ibb.co/WDWzkp0/Screenshot-20241114-120509-edit-173023309744204.jpg" 
+             },
+             {
+                "titulo": "Metamorphosis",
+                 "autor": "Franz Kafka",
+                 "url": "https://drive.google.com/file/d/10PHfAP6L8MdPRiYPjA9Gje-baxwoa_Tg/",
+                 "portada": "https://i.ibb.co/Xbp3h21/Screenshot-20241114-120452-edit-173040646873729.jpg" 
+             },
+             {
+                "titulo": "Lucy Maud Montgomery Short Stories, 1896 to 1901",
+                 "autor": "Lucy Maud Montgomery",
+                 "url": "https://drive.google.com/file/d/14BMGKvmGIo5kc0i-9nDCzp4ukMMIpBih/",
+                 "portada": "https://i.ibb.co/qkfwsWV/Screenshot-20241114-120445-edit-173074408560799.jpg" 
+             },
+             {
+                "titulo": "Jack and Jill",
+                 "autor": "Louisa May Alcott",
+                 "url": "https://drive.google.com/file/d/13vl_wDaK_zusrbxGXM4132dA95xNqfyK/",
+                 "portada": "https://i.ibb.co/c8SXC0t/Screenshot-20241114-120432-edit-173113806189534.jpg" 
+             },
+             {
+                "titulo": "I am Malala",
+                 "autor": "Malala Yousafzai with Christina Lamb",
+                 "url": "https://drive.google.com/file/d/14bgSZAmFkZZTL4MTl_j-JZTCXHrqpq1_/",
+                 "portada": "https://i.ibb.co/ZSbrN3Y/Screenshot-20241114-120410-edit-173138896328952.jpg" 
+             },
+             {
+                "titulo": "Emma",
+                 "autor": "Jane Austen",
+                 "url": "https://drive.google.com/file/d/10X7byMwzxcTcRkQ-8b9dDwWN_9G-yf0B/",
+                 "portada": "https://i.ibb.co/0BMJCjk/emma.jpg" 
+             },
+             {
+                "titulo": "Emily of New Moon",
+                 "autor": "Lucy Maud Montgomery",
+                 "url": "https://drive.google.com/file/d/14FuX8iwJoco-f4ATiuepKDWAi6OsbCQ-/",
+                 "portada": "https://i.ibb.co/BsjrB0T/Screenshot-20241114-120311-edit-173195246354608.jpg" 
+             },
+             {
+                "titulo": "Don Quixote",
+                 "autor": "Gustave Doré - Miguel de Cervantes",
+                 "url": "https://drive.google.com/file/d/13Zp8AVr_zCyrKhQ3NVh-qwKFio1An8ET/",
+                 "portada": "https://i.ibb.co/Ss209yV/Screenshot-20241114-120245-edit-173481524628248.jpg" 
+             },
+             {
+                "titulo": "Anne of the Island",
+                 "autor": "Lucy Maud Montgomery",
+                 "url": "https://drive.google.com/file/d/13icF7alIG0NhPON0qsw4Nz43HmYGe747/",
+                 "portada": "https://i.ibb.co/1b1pwPG/Screenshot-20241114-120200-edit-173504235811781.jpg" 
+             },
+             {
+                "titulo": "Anne of Avonlea",
+                 "autor": "Lucy Maud Montgomery",
+                 "url": "https://drive.google.com/file/d/14H01Jfdnwq-4qjnhVqFJyxmkDkVgAmVL/",
+                 "portada": "https://i.ibb.co/s2W3Qcx/Screenshot-20241114-120150-edit-173524523539221.jpg" 
+             },
+             {
+                "titulo": "An Antarctic Mystery",
+                 "autor": "Jules Verne",
+                 "url": "https://drive.google.com/file/d/13leYcawq5eDMZkAJ2xUyUAksBrMafD18/",
+                 "portada": "https://i.ibb.co/L5cTSJk/Screenshot-20241114-120142-edit-173550768835045.jpg" 
+             },
+             {
+                "titulo": "Alice's Adventures in Wonderland",
+                 "autor": "LEWIS CARROLL",
+                 "url": "https://drive.google.com/file/d/10MT0G3EMQlVFyOJ3Ft3uio26KLG_iFhs/",
+                 "portada": "https://i.ibb.co/h7CdGjw/Screenshot-20241114-120130-edit-173572943617797.jpg" 
+             },
+             {
+                "titulo": "The Adventures of Pinocchio",
+                 "autor": "Carlo Collodi",
+                 "url": "https://drive.google.com/file/d/13e3cSLyd4LZt2_8zvgoIAe--7ib2da7p/",
+                 "portada": "https://i.ibb.co/F5Mjq6X/Screenshot-20241114-120112-edit-173595474798049.jpg" 
+             },
+             {
+                "titulo": "20000 Leagues Under the Sea",
+                 "autor": "Jules Verne",
+                 "url": "https://drive.google.com/file/d/13QzYmNmxN4UGIjAyLe_e6rp388yHED_C/",
+                 "portada": "https://i.ibb.co/Rj4BPFX/Screenshot-20241114-120059-edit-173621716220382.jpg" 
+             }
+        ]
+    },
+    "pt": {
+        "autoayuda": [
+             {
+                 "titulo": "O Verdadeiro Sucesso",
+                 "autor": "Paulo Machado",
+                 "url": "https://drive.google.com/file/d/1-tQ7YRnBYFKI3g57OpgGowFQJjwSWYd-/",
+                 "portada": "https://i.ibb.co/V3jhR1t/O-Verdadeiro-Sucesso-pdf.png" 
+             }
+        ],
+        "bullying": [
+             {
+                 "titulo": "Orientações para a prevenção do assédio moral",
+                 "autor": "",
+                 "url": "https://drive.google.com/file/d/13P_QXZd6jFLDV6XnsJnRpY_P1EAuxL2n/",
+                 "portada": "https://i.ibb.co/LC2fWrx/Orienta-es-para-a-preven-o-do-ass-dio-moral-output.jpg" 
+             },
+             {
+                "titulo": "Manual: Ações de enfrentamento ao Bullying",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/13K2ou8WL5YXE2bzcjDWHlZD8_VkLwYqE/",
+                "portada": "https://i.ibb.co/JzMCVdX/Manual-A-es-de-enfrentamento-ao-Bullying-output.jpg" 
+            },
+            {
+                "titulo": "Cartilha de Prevenção ao Assédio Moral",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/14igGGnCq594h-Uh6SImUoYRTgL8gOQQt/",
+                "portada": "https://i.ibb.co/yYjSCP2/Cartilha-de-Preven-o-ao-Ass-dio-Moral.png" 
+            },
+            {
+                "titulo": "Bullying não é legal",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/13J40BQirQIFt6OmxjpnN0eIvHqvCdBaJ/",
+                "portada": "https://i.ibb.co/L62T6N0/Bullying-n-o-legal.png" 
+            },
+            {
+                "titulo": "Apostila para a prevenção do cyberbullying dirigida aos adolescentes",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/13KdLsdXSX8vjX0cLiztw7KAe4y7YrAf4/",
+                "portada": "https://i.ibb.co/LtDCSsR/Apostila-para-a-preven-o-do-cyberbullying-dirigida-aos-adolescentes-output.jpg" 
+            }
+        ],
+        "cuentos": [
+             {
+                 "titulo": "No reino das letras felizes",
+                 "autor": "Lenira Almeida Heck (Júlia Vehuiah)",
+                 "url": "https://drive.google.com/file/d/15T_7L8_sEhibZUPq_mszFxxeLEd8BCBb/",
+                 "portada": "https://i.ibb.co/NLjFW0b/Screenshot-20241114-115711-edit-173715485064774.jpg" 
+             },
+             {
+                "titulo": "AS PRINCESAS BAILARINAS",
+                "autor": "Sílvia Moral",
+                "url": "https://drive.google.com/file/d/12vnoKvvWLkDlwOJLaB2VpGq_IHsvRHgF/",
+                "portada": "https://i.ibb.co/XXD1FnG/Screenshot-20241114-115649-edit-173736887968880.jpg" 
+            },
+            {
+                "titulo": "A galinha que sabia ler",
+                "autor": "Sandra Aymone",
+                "url": "https://drive.google.com/file/d/12vn2kluZ5YNbO_o2hqJroE88xe_ib_1N/",
+                "portada": "https://i.ibb.co/VS28JTx/Screenshot-20241114-115636-edit-173773641621626.jpg" 
+            },
+            {
+                "titulo": "A ESTRELINHA DO MAR",
+                "autor": "Marisa Monte",
+                "url": "https://drive.google.com/file/d/12uuLX7f-SalY-5bFB9YBbJTtQmNWxZ2a/",
+                "portada": "https://i.ibb.co/m53cxTP/Screenshot-20241114-115618-edit-173794313023858.jpg" 
+            },
+            {
+                "titulo": "A Borboleta Azul",
+                "autor": "Lenira Almeida Heck (Júlia Vehuiah)",
+                "url": "https://drive.google.com/file/d/15_1EktAbbLTp1-IU1pMjvVuYbqbWQhLM/",
+                "portada": "https://i.ibb.co/1sdF22h/Screenshot-20241114-115611-edit-173812990817289.jpg" 
+            },
+            {
+                "titulo": "A BELA E A FERA",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/12tNuqR_UWud9vP_lyA0uw_NY_xKNOQ6h/",
+                "portada": "https://i.ibb.co/RzXym4Z/Screenshot-20241114-115554-edit-173830582965407.jpg" 
+            },
+            {
+                "titulo": "A BELA ADORMECIDA",
+                "autor": "",
+                "url": "https://drive.google.com/file/d/12shpOIVLfvDGpiLWSmogaLZ0uRllUxcp/",
+                "portada": "https://i.ibb.co/R4K8LLC/Screenshot-20241114-115543-edit-173847651377119.jpg" 
+            }
+        ],
+        "novelas": [
+             {
+                 "titulo": "VIAGEM AO CENTRO DA TERRA",
+                 "autor": "Júlio Verne",
+                 "url": "https://drive.google.com/file/d/12qcOKCsofkfIaSxGpJSJyk6LUWVDP4Mw/",
+                 "portada": "https://i.ibb.co/FDz0DtL/1617-www-escala-com-br-a-viagem-ao-centro-da-terra-julio-vernejpg.jpg" 
+             },
+             {
+                "titulo": "Peter Pan & Wendy",
+                "autor": "J. M. Barrie",
+                "url": "https://drive.google.com/file/d/12jKBcdO_Q1Cw8C6RDFcFbJNoB9F-pyEw/",
+                "portada": "https://i.ibb.co/sVLMCmY/Screenshot-20241117-143911-edit-58759850769823.jpg" 
+            },
+            {
+                "titulo": "Orgulho e Preconceito",
+                "autor": "Jane Austen",
+                "url": "https://drive.google.com/file/d/137Siiq0GfG-aogUSHfaBw9xOgFZZnrZX/",
+                "portada": "https://i.ibb.co/XyzHMp3/capa-orgulho-preconceito1.jpg" 
+            },
+            {
+                "titulo": "O Pequeno Príncipe",
+                "autor": "Antoine de Saint Exupéry",
+                "url": "https://drive.google.com/file/d/12yq7fcpANZG56ghFebb9kK8piCDtNOXN/",
+                "portada": "https://i.ibb.co/nnbM2By/Screenshot-20241117-143858-edit-58740762909674.jpg" 
+            },
+            {
+                "titulo": "O JARDIM SECRETO",
+                "autor": "Frances Hodgson Burnett",
+                "url": "https://drive.google.com/file/d/12VOsq0ByP8a0WIjY2mX4G8-M9XRWVBtC/",
+                "portada": "https://i.ibb.co/88LdGrm/Screenshot-20241117-143853-edit-58723046654056.jpg" 
+            },
+            {
+                "titulo": "Mulherzinhas",
+                "autor": "Louisa May Alcott",
+                "url": "https://drive.google.com/file/d/13IkfSgH2NcdvOmRxrTn18nljKTxmquKP/",
+                "portada": "https://i.ibb.co/QY8rqx9/Mulherzinhas.jpg" 
+            },
+            {
+                "titulo": "Harry Potter e o prisioneiro de Azkaban",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/12eBl3V94qSHpFQe2cLYKjr5YyQUol52z/",
+                "portada": "https://i.ibb.co/h8mY90n/Screenshot-20241117-143836-edit-58705152814115.jpg" 
+            },
+            {
+                "titulo": "Harry Potter e o enigma do príncipe",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/12_UaNErgNwbJlr7ENrP65Dd77YpmctXk/",
+                "portada": "https://i.ibb.co/sKxsM9J/Screenshot-20241117-143823-edit-58687632031569.jpg" 
+            },
+            {
+                "titulo": "Harry Potter e a Ordem da Fenix",
+                "autor": "J. K. Rowling",
+                "url": "https://drive.google.com/file/d/12g5UQjT-odPDDBchpcdQ0Ahy65jR5Hdr/",
+                "portada": "https://i.ibb.co/k4nJ1N9/Screenshot-20241117-143812-edit-58670560988451.jpg" 
+            },
+            {
+                "titulo": "Dom Quixote – Vol 1",
+                "autor": "Miguel de Cervantes",
+                "url": "https://drive.google.com/file/d/12R-nm3d5_guw8rYZTkPBImFNGWPtWTa5/",
+                "portada": "https://i.ibb.co/6rH8R8J/Dom-Quixote-Vol-1.jpg" 
+            },
+            {
+                "titulo": "Dom Quixote - Vol 2",
+                "autor": "Miguel de Cervantes",
+                "url": "https://drive.google.com/file/d/12UcMfNyz_zaCjkpea6ArF60UXjF-wKjk/",
+                "portada": "https://i.ibb.co/fxnyR4X/Dom-Quixote-Vol-2.jpg" 
+            },
+            {
+                "titulo": "Da Terra a Lua",
+                "autor": "Jules Verne",
+                "url": "https://drive.google.com/file/d/12lV6ZRkJLIe9m1dfT8OmsoaFoObF3C17/",
+                "portada": "https://i.ibb.co/bbdv7gp/Screenshot-20241117-143758-edit-58651872324864.jpg" 
+            },
+            {
+                "titulo": "AS CRÔNICAS DE NÁRNIA - VOL III - O CAVALO E SEU Menino",
+                "autor": "C. S. LEWIS",
+                "url": "https://drive.google.com/file/d/16ERKcp5DOuXB49Vr65qlLV1RcZT0pcz-/",
+                "portada": "https://i.ibb.co/bW86LCN/Screenshot-20241117-143741-edit-58623466623469.jpg" 
+            },
+            {
+                "titulo": "As aventuras de pinocchio",
+                "autor": "Carlo Collodi",
+                "url": "https://drive.google.com/file/d/137Op-NkaPRENSwX9vLC0CjufM7DuurkL/",
+                "portada": "https://i.ibb.co/k1j33Ps/Screenshot-20241117-143730-edit-58600642113217.jpg" 
+            },
+            {
+                "titulo": "ALICE NO PAÍS DAS MARAVILHAS",
+                "autor": "LEWIS CARROLL",
+                "url": "https://drive.google.com/file/d/12n0adylOZe_BjbC0fl1KkXj1rl92QljA/",
+                "portada": "https://i.ibb.co/345Rgw5/Screenshot-20241117-143721-edit-58576378052133.jpg" 
+            },
+            {
+                "titulo": "A volta ao mundo em 80 dias",
+                "autor": "Jules Verne",
+                "url": "https://drive.google.com/file/d/12Jbn01ySI58Hsf87gIc_p5ZL97qugf3y/",
+                "portada": "https://i.ibb.co/0n2d2sp/Screenshot-20241117-143714-edit-58558588113910.jpg" 
+            },
+            {
+                "titulo": "A METAMORFOSE",
+                "autor": "Franz Kafka",
+                "url": "https://drive.google.com/file/d/12l_h-rseKjOgmcyfz0QFjzujKZAzzGsi/",
+                "portada": "https://i.ibb.co/Dwt0gwN/Screenshot-20241117-143705-edit-58539060029126.jpg" 
+            },
+            {
+                "titulo": "A MARAVILHOSA TERRA DE OZ",
+                "autor": "Lyman Frank Baum",
+                "url": "https://drive.google.com/file/d/12zhAXRvRbYRN2kVzNLNDVbzH3Ky9zumi/",
+                "portada": "https://i.ibb.co/vqh5Mf4/Screenshot-20241117-143658-edit-58518011739186.jpg" 
+            }
+        ]
+    }
+}
