@@ -62,6 +62,50 @@ body {
   font-size: 3em;
 }
 
+.inicio-jovenesacosan {
+  background: url("https://i.ibb.co/4T9WMgp/jovenesacosan.jpg")
+    no-repeat center center/cover;
+  height: 18.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  font-size: 3em;
+}
+
+.inicio-niños {
+  background: url("https://i.ibb.co/NZmChrc/6-ZUWOQR7-GRFLTPTMRSO3-CWOXIY.webp")
+    no-repeat center center/cover;
+  height: 18.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  font-size: 3em;
+}
+
+.inicio-riesgos {
+  background: url("https://i.ibb.co/G0rg4pr/prevencion-del-acoso-escolar-mediante-mediacion-1024x682.webp")
+    no-repeat center center/cover;
+  height: 18.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  font-size: 3em;
+}
+
+.inicio-advertencia {
+  background: url("https://i.ibb.co/wMcK43L/31-web-detalle.jpg")
+    no-repeat center center/cover;
+  height: 18.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  font-size: 3em;
+}
+
 .content {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -285,6 +329,7 @@ body {
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   gap: 20px;
 }
+
 .book {
   border: 1px solid #ddd;
   border-radius: 8px;
@@ -293,13 +338,16 @@ body {
   text-align: center;
   background-color: #fff;
 }
+
 .book img {
   width: 100%;
   height: auto;
 }
+
 .book-info {
   padding: 10px;
 }
+
 .book-info a {
   display: inline-block;
   margin-top: 10px;
@@ -309,8 +357,23 @@ body {
   border-radius: 5px;
   text-decoration: none;
 }
+
 .book-info a:hover {
   background-color: #dc2c1c;
+}
+
+label { 
+  display: block; margin-bottom: 8px; 
+  font-weight: bold; font-size: 16px; 
+  color: #c80000; 
+} 
+
+#categorySelect, #languageSelect { 
+  font-size: large;
+  width: 100%; padding: 10px; margin-bottom: 20px; 
+  border: 1px solid #e81717; 
+  border-radius: 5px; font-size: 14px; 
+  color: #2a0400
 }
 
 @media (max-width: 767px) {

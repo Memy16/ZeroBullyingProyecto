@@ -7,15 +7,27 @@ document.addEventListener("DOMContentLoaded", () => {
         fetch('../data/libros.json')
             .then(response => response.json())
             .then(data => {
-            
-                const librosPorIdioma = data[language] || {};
                 let libros = [];
 
-                if (category) {
-                    libros = librosPorIdioma[category] || [];
+                if (language) {
+                    const librosPorIdioma = data[language] || {};
+                    if (category) {
+                        libros = librosPorIdioma[category] || [];
+                    } else {
+                        for (const cat in librosPorIdioma) {
+                            libros = libros.concat(librosPorIdioma[cat]);
+                        }
+                    }
                 } else {
-                    for (const cat in librosPorIdioma) {
-                        libros = libros.concat(librosPorIdioma[cat]);
+                    for (const lang in data) {
+                        const librosPorIdioma = data[lang] || {};
+                        if (category) {
+                            libros = libros.concat(librosPorIdioma[category] || []);
+                        } else {
+                            for (const cat in librosPorIdioma) {
+                                libros = libros.concat(librosPorIdioma[cat]);
+                            }
+                        }
                     }
                 }
 
@@ -51,5 +63,5 @@ document.addEventListener("DOMContentLoaded", () => {
         loadBooks(category, language);
     });
 
-    loadBooks('', 'es', 'en', 'pt'); 
+    loadBooks('', ''); // Carga inicial con todas las categorías y todos los idiomas
 });
